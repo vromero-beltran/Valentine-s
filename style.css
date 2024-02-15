@@ -14,6 +14,11 @@ body {
   transform: translateY(-90px);
 }
 
+/* for mobile users */
+.container:active .card {
+  transform: translateY(-90px);
+}
+
 .valentines {
   position: relative;
   top: 50px;
